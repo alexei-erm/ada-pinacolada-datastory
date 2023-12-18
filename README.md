@@ -25,10 +25,16 @@ Indeed, an important stepping stone for the analysis is to have a consensus on w
 
 *explain use of chatGPT word list, filtering + muslim VS arabic* --> + matteo's branch 
 
+# *"Nice to meet you, I'm Data"*: getting familiar with the dataset
+
+recycle P2, facts and graphs about initial pre-processings
+
 # First steps: the implicit connotations in movie plots
 
 use P2's word clouds // sentiment analysis? diff models? Bert etc...
 
-# 
+# Digging deeper: crime and war genre
 
-# Did 9/11 significantly alter the portrayal of Arab characters in films? (Observational study: are you more likely to be part of a c&w genre as an arab character post-2001?) 
+Explore the link between arab chars and c&w genre pre/after 2001, depending on regions  (--> Observationnal study + are you more likely to be part of a c&w genre as an arab character post-2001?)
+
+# 
