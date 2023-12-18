@@ -19,22 +19,26 @@ Our data analysis journey delves into the captivating intersection of reality an
 
 Through our analysis of the CMU movie dataset, spanning pre and post-9/11 eras, we hope to unearth patterns, trends, and anomalies that illuminate the multifaceted relationship between historical events and cinematic narratives. As we unravel the *reel impact of real-world events* (*tu-dums*), our journey promises to uncover not only the challenges but also the opportunities for more authentic storytelling in the world of cinema. So, grab your popcorn, and.... *Lights... Camera... Action!*
 
+# *"Nice to meet you, I'm Data"*: getting familiar with the dataset
+
+recycle P2, facts and graphs about initial pre-processings
+
 # Wait a second... How do we detect arab characters?
 
 Indeed, an important stepping stone for the analysis is to have a consensus on what do we mean by "Arab" character or location. 
 
 *explain use of chatGPT word list, filtering + muslim VS arabic* --> + matteo's branch 
 
-# *"Nice to meet you, I'm Data"*: getting familiar with the dataset
+# [...] the crime and war genre
 
-recycle P2, facts and graphs about initial pre-processings
+Explore the link between arab chars and c&w genre pre/after 2001, depending on regions  (--> Observationnal study + are you more likely to be part of a c&w genre as an arab character post-2001?)  
 
-# First steps: the implicit connotations in movie plots
+BUT no results on positive/negative connotation yet, so next part)
 
-use P2's word clouds // sentiment analysis? diff models? Bert etc...
+# [...]  implicit connotations in movie plots
 
-# Digging deeper: crime and war genre
+use P2's word clouds + LDA for topic modeling
 
-Explore the link between arab chars and c&w genre pre/after 2001, depending on regions  (--> Observationnal study + are you more likely to be part of a c&w genre as an arab character post-2001?)
+# Sentiment analysis
 
-# 
+
