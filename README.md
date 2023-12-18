@@ -18,3 +18,17 @@ In the captivating realm of cinema, the silver screen not only reflects our coll
 Our data analysis journey delves into the captivating intersection of reality and reel, seeking to understand how one of the most significant events of the 21st century shaped the representation of Arabs in cinema. The lens through which movies depict Arab characters, cultures, and narratives has often been subject to scrutiny, with questions raised about the perpetuation of stereotypes and the impact of real-world events on cinematic storytelling.
 
 Through our analysis of the CMU movie dataset, spanning pre and post-9/11 eras, we hope to unearth patterns, trends, and anomalies that illuminate the multifaceted relationship between historical events and cinematic narratives. As we unravel the *reel impact of real-world events* (*tu-dums*), our journey promises to uncover not only the challenges but also the opportunities for more authentic storytelling in the world of cinema. So, grab your popcorn, and.... *Lights... Camera... Action!*
+
+# Wait a second... How do we detect arab characters?
+
+Indeed, an important stepping stone for the analysis is to have a consensus on what do we mean by "Arab" character or location. 
+
+*explain use of chatGPT word list, filtering + muslim VS arabic* --> + matteo's branch 
+
+# First steps: the implicit connotations in movie plots
+
+use P2's word clouds // sentiment analysis? diff models? Bert etc...
+
+# 
+
+# Did 9/11 significantly alter the portrayal of Arab characters in films? (Observational study: are you more likely to be part of a c&w genre as an arab character post-2001?) 
